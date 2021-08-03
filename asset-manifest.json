@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/trevtanner/React-todos-project/static/css/main.a94704ce.chunk.css",
+    "main.js": "/trevtanner/React-todos-project/static/js/main.dd8e4e2d.chunk.js",
+    "main.js.map": "/trevtanner/React-todos-project/static/js/main.dd8e4e2d.chunk.js.map",
+    "runtime-main.js": "/trevtanner/React-todos-project/static/js/runtime-main.3c95823e.js",
+    "runtime-main.js.map": "/trevtanner/React-todos-project/static/js/runtime-main.3c95823e.js.map",
+    "static/js/2.459b88fc.chunk.js": "/trevtanner/React-todos-project/static/js/2.459b88fc.chunk.js",
+    "static/js/2.459b88fc.chunk.js.map": "/trevtanner/React-todos-project/static/js/2.459b88fc.chunk.js.map",
+    "index.html": "/trevtanner/React-todos-project/index.html",
+    "static/css/main.a94704ce.chunk.css.map": "/trevtanner/React-todos-project/static/css/main.a94704ce.chunk.css.map",
+    "static/js/2.459b88fc.chunk.js.LICENSE.txt": "/trevtanner/React-todos-project/static/js/2.459b88fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c95823e.js",
+    "static/js/2.459b88fc.chunk.js",
+    "static/css/main.a94704ce.chunk.css",
+    "static/js/main.dd8e4e2d.chunk.js"
+  ]
+}
